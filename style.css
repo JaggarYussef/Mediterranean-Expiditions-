@@ -5,6 +5,8 @@
 
 body{
     background-color: beige;
+   
+    
 }
 
 .card{
@@ -19,4 +21,9 @@ body{
 #section-img{
     filter: contrast(75%);
     filter: grayscale(50%);
+}
+
+#logoName{
+    text-decoration: none;
+    color: black;
 }
